@@ -1,0 +1,4 @@
+Berdasarkan dari gambar yang ada, gelas yang terisi lebih dahulu ialah gelas nomor 2.
+Hal ini dikarenakan air pertama kali turun dari gelas nomor 4 lalu mengalir kesebelah kanan.
+Setelah itu air akan mengalir dan memenuhi gelas kedua.
+Dikarenakan pipa menuju gelas nomor 3 dan 1 tertutup, tentu saja hal ini mempercepat gelas 2 agar terisi dengan penuh lebih dahulu.
